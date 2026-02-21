@@ -224,10 +224,10 @@ Your support makes **JavaScript Games for Beginners** better every day. 💪
 		</tr>
 		<tr>
             <td align="center">
-                <a href="https://github.com/spiderOO7">
-                    <img src="https://avatars.githubusercontent.com/u/120004473?v=4" width="100;" alt="spiderOO7"/>
+                <a href="https://github.com/spyderrr007">
+                    <img src="https://avatars.githubusercontent.com/u/120004473?v=4" width="100;" alt="spyderrr007"/>
                     <br />
-                    <sub><b>spiderOO7</b></sub>
+                    <sub><b>spyderrr007</b></sub>
                 </a>
             </td>
             <td align="center">
